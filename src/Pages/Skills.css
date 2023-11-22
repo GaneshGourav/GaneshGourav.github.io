@@ -1,0 +1,12 @@
+.skills-card-name{
+    margin-top: 20px;
+   
+    font-family: cursive;
+    color: #0ef;
+}
+.skills-card{
+    box-shadow: 0 0 10px #0ef;
+}
+.skills-card:hover{
+    box-shadow: 0 0 20px #0ef;
+}

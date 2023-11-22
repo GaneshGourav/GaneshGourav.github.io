@@ -1,0 +1,34 @@
+.project-card{
+    border: 3px inset #18112C;
+    box-shadow: 0 0 2px #0ef;
+    
+}
+/* .project-card:hover{
+    box-shadow: 0 0 20px #0ef;
+    border: 1px solid #18112C;
+    background: #301f5f;
+
+} */
+.preview_btn{
+    box-shadow: 0 0 10px white;
+}
+.preview_btn:hover{
+    /* box-shadow: 0 0 20px white; */
+    background: #0ef;
+    color: #081b29;
+    box-shadow: 0 0 10px #0ef;
+}
+.social_icon{
+    border-radius: 50%;
+    border: 2px solid #0ef;
+    
+    padding: 5px;
+    color: #0ef;
+    font-size: 40px;
+
+}
+.social_icon:hover{
+    background: #0ef;
+    color: #081b29;
+    box-shadow: 0 0 20px #0ef;
+}
