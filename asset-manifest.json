@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.40bced85.css",
-    "main.js": "/static/js/main.ba512cbf.js",
+    "main.js": "/static/js/main.71351f76.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Professional_Pic.png": "/static/media/Professional_Pic.d81895b9530b6aa80b04.png",
-    "static/media/Ganesh_Kumar_Resume.pdf": "/static/media/Ganesh_Kumar_Resume.22e1225aeaf6f6eb4f99.pdf",
     "static/media/Ganesh Kumar-Full Stack Web Developer.pdf": "/static/media/Ganesh Kumar-Full Stack Web Developer.69d3b50b06bfda240f14.pdf",
     "static/media/cartLaneClone.jpg": "/static/media/cartLaneClone.75920062aa568ddf1bd9.jpg",
     "static/media/ElectronicsExpress.jpg": "/static/media/ElectronicsExpress.2cdca039f0dbc9eedbca.jpg",
@@ -14,11 +13,11 @@
     "static/media/express.svg": "/static/media/express.d39bd255a1e339b18192aa5c1989e6f8.svg",
     "static/media/chakraui.svg": "/static/media/chakraui.cf8ffbe8542d7bf1c439768c5c39b27e.svg",
     "main.40bced85.css.map": "/static/css/main.40bced85.css.map",
-    "main.ba512cbf.js.map": "/static/js/main.ba512cbf.js.map",
+    "main.71351f76.js.map": "/static/js/main.71351f76.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40bced85.css",
-    "static/js/main.ba512cbf.js"
+    "static/js/main.71351f76.js"
   ]
 }
