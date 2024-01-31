@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.04db9565.css",
-    "main.js": "/static/js/main.6ad0a61c.js",
+    "main.css": "/static/css/main.2e6851eb.css",
+    "main.js": "/static/js/main.ab05950e.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Professional_Pic.png": "/static/media/Professional_Pic.d81895b9530b6aa80b04.png",
-    "static/media/Ganesh Kumar-Full Stack Web Developer.pdf": "/static/media/Ganesh Kumar-Full Stack Web Developer.69d3b50b06bfda240f14.pdf",
+    "static/media/Ganesh Kumar-Full Stack Web Developer.pdf": "/static/media/Ganesh Kumar-Full Stack Web Developer.b9536050eb6cb96fa5be.pdf",
     "static/media/cartLaneClone.jpg": "/static/media/cartLaneClone.75920062aa568ddf1bd9.jpg",
     "static/media/ElectronicsExpress.jpg": "/static/media/ElectronicsExpress.2cdca039f0dbc9eedbca.jpg",
     "static/media/HealthIV.jpg": "/static/media/HealthIV.91cd58d51ad335d4429f.jpg",
@@ -13,12 +13,12 @@
     "index.html": "/index.html",
     "static/media/express.svg": "/static/media/express.d39bd255a1e339b18192aa5c1989e6f8.svg",
     "static/media/chakraui.svg": "/static/media/chakraui.cf8ffbe8542d7bf1c439768c5c39b27e.svg",
-    "main.04db9565.css.map": "/static/css/main.04db9565.css.map",
-    "main.6ad0a61c.js.map": "/static/js/main.6ad0a61c.js.map",
+    "main.2e6851eb.css.map": "/static/css/main.2e6851eb.css.map",
+    "main.ab05950e.js.map": "/static/js/main.ab05950e.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04db9565.css",
-    "static/js/main.6ad0a61c.js"
+    "static/css/main.2e6851eb.css",
+    "static/js/main.ab05950e.js"
   ]
 }
